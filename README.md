@@ -1,11 +1,11 @@
 ## Oi, eu sou a Lhays!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/lhaysizidoro/)])
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/lhaysizidoro) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izidorolhays@gmail.com)
 
 
-Meu nome é **Lhays Izidoro**, tenho 26 anos e sou estudante de Tecnologia da Informacao na **Univesp**, Sao Paulo, Brasil. 
+Meu nome é **Lhays Izidoro**, tenho 26 anos e sou estudante de Tecnologia da Informação na **Univesp**, São Paulo, Brasil. 
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 

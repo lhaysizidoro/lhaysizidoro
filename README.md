@@ -1,15 +1,19 @@
-## Oi, eu sou a Lhays!
+## Hi there, I am Lhays!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/lhaysizidoro/)])
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/lhaysizidoro) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izidorolhays@gmail.com)
 
 
-Meu nome é **Lhays Izidoro**, tenho 26 anos e sou estudante de Tecnologia da Informação na **Univesp**, São Paulo, Brasil. 
+My name is **Lhays Izidoro**, I am 26 years old and I am an Technology student at **Univesp**, São Paulo, Brazil.
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-### Linguagens e Ferramentas 🛠 
+-  I’m currently working on web development technologies like JavaScript, React etc.
+-  I’m currently learning about Java 😅
+-  Future Goals: Learn more technologies
+-  Fun fact: I'm also an anthropologist
+
+### Languages and tools 🛠 
 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
